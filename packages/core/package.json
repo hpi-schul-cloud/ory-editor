@@ -36,7 +36,7 @@
     "react-redux": "^5.0.7",
     "react-resizable": "^1.7.5",
     "redux": "^3.7.2",
-    "redux-undo": "0.6.1",
+    "redux-undo": "1.0.0-beta9-7",
     "reselect": "^3.0.1",
     "semver": "^5.5.0",
     "uuid": "^3.2.1"
