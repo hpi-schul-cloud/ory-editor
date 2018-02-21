@@ -282,3 +282,11 @@
     transform: scale(0, 0);
   }
 }
+
+.ory-toolbar-item-wrapper {
+  cursor: move;
+}
+
+.ory-toolbar-item-wrapper .ory-toolbar-item:hover {
+  background-color: #ddd;
+}
