@@ -19,17 +19,17 @@
   "peerDependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-tap-event-plugin": "^3.0.2"
+    "react-tap-event-plugin": "^2.0.1"
   },
   "dependencies": {
     "classnames": "^2.2.5",
     "device.js": "^2.3.0",
     "material-ui": "^0.20.0",
     "ory-editor-core": "0.0.0",
-    "rc-tooltip": "^3.7.0",
-    "react-dnd": "^2.5.4",
-    "react-redux": "^5.0.7",
-    "reselect": "^3.0.1"
+    "rc-tooltip": "^3.4.3",
+    "react-dnd": "^2.4.0",
+    "react-redux": "^5.0.4",
+    "reselect": "^3.0.0"
   },
   "devDependencies": {}
 }
